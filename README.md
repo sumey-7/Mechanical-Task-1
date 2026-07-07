@@ -8,7 +8,7 @@
 Below is a high-quality preview of the final 3D model after merging the shapes and enabling the **Multi-color** feature to preserve the original component colors:
 
 <p align="center">
-  <img src="./3d-models/design-preview1.png" alt="3D Robot Leg Model Preview" width="600">
+  <img src="./3d-models/design-preview1.png.png" alt="3D Robot Leg Model Preview" width="600">
 </p>
 
 ---
