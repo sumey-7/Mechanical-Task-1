@@ -1,7 +1,7 @@
 # 🤖 3D Robot-Dog Design Project
 
 > 💡 **Tip:** Want to rotate and interact with the 3D model yourself? 
-> 👉 **[Click here to open the Interactive 3D Viewer](./3d-models/robot-leg.stl)** and move the model with your mouse!
+> 👉 **[Click here to open the Interactive 3D Viewer](./3d-models/Robot-Dog.stl)** and move the model with your mouse!
 
 ## 📸 Design Preview
 
@@ -18,7 +18,7 @@ Below is a high-quality preview of the final 3D model after merging the shapes a
 You can navigate directly through the project files and evaluation criteria using the quick links below:
 
 * 📝 **[Click here to view the Assignment Solutions](./solutions/assignment-questions.md)**
-* 🤖 **[Interactive 3D STL Model Viewer](./3d-models/robot-leg.stl)** *(Click to rotate and inspect the model live on GitHub)*
+* 🤖 **[Interactive 3D STL Model Viewer](./3d-models/Robot-Dog.stl)** *(Click to rotate and inspect the model live on GitHub)*
 
 ---
 
