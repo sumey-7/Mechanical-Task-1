@@ -2,6 +2,10 @@
 
 > 💡 **Tip:** Want to rotate and interact with the 3D model yourself? 
 > 👉 **[Click here to open the Interactive 3D Viewer](./3d-models/Robot-Dog.stl)** and move the model with your mouse!
+> [!CAUTION]
+> *(Note: GitHub's built-in STL viewer renders models in grey by default. To view the original multi-color design, please refer to the Design Preview image below).*
+> [!WARNING]
+> GitHub's built-in STL viewer renders models in grey by default. To view the original multi-color design, please refer to the Design Preview image below.
 
 ## 📸 Design Preview
 
